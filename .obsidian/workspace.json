@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "eafd741d7b06f086",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32114c296a2665c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43cfda42a9cddd83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/TypeScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62839d3fe16ff975",
+    "type": "split",
+    "children": [
+      {
+        "id": "229959969a9bbca1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d430d9a65e989b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "debb9a352e487fb3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "48cbec5d1cdf6bc3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5044631958008
+  },
+  "right": {
+    "id": "4d0d1b5d76340f54",
+    "type": "split",
+    "children": [
+      {
+        "id": "600265a25b859551",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec2760db4ee1013a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning/TypeScript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f344f8f731512bee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning/TypeScript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c88b70c2baaca2b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c6a64a68c48289b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learning/TypeScript.md"
+              }
+            }
+          },
+          {
+            "id": "401642b0a4ad57b7",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "401642b0a4ad57b7",
+  "lastOpenFiles": [
+    "Learning/TypeScript.md",
+    "Learning/TypeScript.md",
+    "Learning"
+  ]
+}
