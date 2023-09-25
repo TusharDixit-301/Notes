@@ -23,5 +23,12 @@
     "iconInTabsEnabled": false
   },
   "Learning": "LiBookOpen",
-  "Learning/TypeScript.md": "LiStickyNote"
+  "Learning/TypeScript.md": "LiStickyNote",
+  "Learning/CSS.md": {
+    "iconName": "LiStickyNote",
+    "inheritanceIcon": "LiStickyNote"
+  },
+  "Learning/HTML.md": "LiStickyNote",
+  "Learning/JavaScript.md": "LiStickyNote",
+  "Learning/NestJs.md": "LiStickyNote"
 }
